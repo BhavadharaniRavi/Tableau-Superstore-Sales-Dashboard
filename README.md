@@ -27,4 +27,22 @@ Superstore Sales Dataset
 
 ## Dashboard images
 ![SuperStore](Tableau-Charts1.png)
-![SuperStore](
+![SuperStore](Tableau-Charts2.png)
+
+## Key Insights
+- The West region recorded the highest total sales, followed by the East region.
+- The South region shows comparatively lower sales performance among all regions.
+- Office Supplies contributes a significant portion of the total sales distribution.
+- Sales trends fluctuate across months and years, indicating varying demand patterns.
+
+## Dashboard Features
+- Region-wise sales comparison
+- Category-level sales distribution
+- Time-based sales trend analysis
+- Multiple customized visualization techniques
+
+## Project Outcome
+This project helped improve my skills in data visualization, dashboard design, and analytical storytelling using Tableau.
+
+## Author
+Bhavadharani Ravindran
