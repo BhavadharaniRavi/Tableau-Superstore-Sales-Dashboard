@@ -26,4 +26,5 @@ Superstore Sales Dataset
 - Lollipop Chart – Displays category-wise sales values using a cleaner alternative to a bar chart.
 
 ## Dashboard images
+![SuperStore](Tableau-Charts1.png)
 ![SuperStore](
