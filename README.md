@@ -5,7 +5,7 @@ Tableau Superstore Sales Dashboard
 This project analyzes retail sales performance using the Superstore Sales dataset and demonstrates various data visualization techniques in Tableau. The goal of this project is to explore sales distribution across different regions, understand category-level contributions, and identify sales trends over time through an interactive dashboard.
 
 ## Dataset
-Superstore Sales Dataset
+![Superstore Sales Dataset](SuperStore Sales DataSet.xlsx)
 
 ## Tools Used
 - Tableau Public
